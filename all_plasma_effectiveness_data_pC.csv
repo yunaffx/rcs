@@ -1,0 +1,54 @@
+﻿trial,file_name,method,material,size,faraday_charge_pC_before,calibratedcharge_before,faraday_charge_pC_after,calibratedcharge_after
+1,beethinNO1,no plasma,bumblebee,small ,75,87.9496,-41,-97.7646
+2,beethinkNO2,no plasma,bumblebee,small ,84,95.5309,-60,-148.356
+3,beefatNO3,no plasma,bumblebee,small ,49,31.6997,-22,-37.9765
+4,beethinNO2,no plasma,bumblebee,small ,157,154.3237,-4,-39.6794
+5,beethinNO3,no plasma,bumblebee,small ,59,47.9814,-1,-0.0441
+6,beethinNOB1,no plasma,bumblebee,small ,197,220.3393,11,16.02
+7,beethinNOB1,no plasma,bumblebee,small ,337,373.0834,37,11.5177
+8,beethinNOB1,no plasma,bumblebee,small ,371,612.8678,102,113.315
+9,beethinNOB2,no plasma,bumblebee,small ,273,335.3139,108,150.9698
+10,beethinNOB2,no plasma,bumblebee,small ,238,224.2943,-2,-22.9783
+1,beefatNO1,no plasma,bumblebee,big,42,56.4886,-45,-48.6208
+2,beefatNO1,no plasma,bumblebee,big,50,52.4978,-42,-43.2739
+3,beefatNO2,no plasma,bumblebee,big,54,61.5057,-40,-50.2526
+4,beefatNO2,no plasma,bumblebee,big,59,44.775,-55,-69.1833
+5,beefatNO3,no plasma,bumblebee,big,23,15.134,-55,-87.0376
+6,beefatNOB1,no plasma,bumblebee,big,76,88.4955,-18,-68.4068
+7,beefatNOB1,no plasma,bumblebee,big,300,352.1757,-49,-51.3786
+8,beefatNOB1,no plasma,bumblebee,big,131,34.2319,68,-47.3656
+9,beefatNOB2,no plasma,bumblebee,big,359,480.3857,-31,-129.6475
+10,beefatNOB2,no plasma,bumblebee,big,307,383.5157,-16,-30.2127
+1,nsmallNO1,no plasma,nylon ball,small ,144,12.0088,-48,-220.3639
+2,nsmallNO1,no plasma,nylon ball,small ,44,84.7274,-13,-90.671
+3,nsmallNO1,no plasma,nylon ball,small ,109,183.1603,-10,-125.6601
+4,nsmallNO2,no plasma,nylon ball,small ,152,259.6841,-3,-91.836
+5,nsmallNO2,no plasma,nylon ball,small ,168,259.6276,-8,-76.9552
+1,nbigNO1,no plasma,nylon ball,big,349,366.917,99,90.507
+2,nbigNO1,no plasma,nylon ball,big,233,285.01,116,88.3313
+3,nbigNO1,no plasma,nylon ball,big,215,213.9715,148,118.4058
+4,nbigNO2,no plasma,nylon ball,big,204,167.5857,62,54.8939
+5,nbigNO2,no plasma,nylon ball,big,326,314.9655,99,66.3425
+1,beethin1,plasma,bumblebee,small,101,119.375,-1,-13.424
+2,beethin2,plasma,bumblebee,small,70,64.654,-3,-8.268
+3,beethin2,plasma,bumblebee,small,174,175.65,-1,-22.606
+4,beethin3,plasma,bumblebee,small,128,119.232,-2,-14.514
+1,beefat1,plasma,bumblebee,big,30,42.596,-22,-58.166
+2,beefat1,plasma,bumblebee,big,49,84.555,-85,-102.622
+3,beefat2,plasma,bumblebee,big,52,75.908,-50,-83.634
+4,beefat2,plasma,bumblebee,big,17,18.076,-9,-14.8
+5,beefat3,plasma,bumblebee,big,51,78.367,-1,-9.633
+1,nsmall1,plasma,nylon ball,small,261,612.995,-1,-19.695
+2,nsmall1,plasma,nylon ball,small,101,124.222,-19,-41.519
+3,nsmall2,plasma,nylon ball,small,36,47.845,-74,-174.44
+4,nsmall3,plasma,nylon ball,small,106,167.621,-16,-45.844
+1,nbig1,plasma,nylon ball,big,522,612.181,24,27.201
+2,nbig1,plasma,nylon ball,big,281,290.114,59,52.553
+3,nbig2,plasma,nylon ball,big,315,359.31,30,30.31
+4,nbig2,plasma,nylon ball,big,291,278.014,9,16.042
+5,nbig2,plasma,nylon ball,big,140,116.457,30,22.754
+1,wax1,plasma,waxed nylon ball,big,124,138.438,-14,-0.033
+2,wax1,plasma,waxed nylon ball,big,133,207.627,9,24.023
+3,wax2,plasma,waxed nylon ball,big,199,265.385,36,25.226
+4,wax2,plasma,waxed nylon ball,big,179,236.825,31,14.929
+5,wax2,plasma,waxed nylon ball,big,138,139.562,42,21.719
