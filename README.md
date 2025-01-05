@@ -1,16 +1,50 @@
-My overall PhD research focuses on bee electroreception, a highly niche area of study with limited established methods. This field often requires developing and testing novel methods, as reference papers are scarce. One aspect of my first rotation involves evaluating two potential methods to neutralize an object’s charge (objects or insects) and bring it as close to zero as possible. 
+# **Plasma Charge Neutralization Analysis**
 
-I am testing two methods to neutralize charge on objects (e.g., insects) to as close to zero as possible. Colleagues suggested a plasma source (lighter) could neutralize charge, but its effectiveness on positively charged bees is unknown.
+This repository contains a Jupyter Notebook for analyzing the effectiveness of plasma treatments in neutralizing charges on various materials (e.g., insects and synthetic objects). This work is part of ongoing research in the niche field of bee electroreception.
 
-Using a Faraday Pail (reliable) and a Ring Charge Sensor (RCS) for complementary readings, I conducted two experiments:
+## **Project Overview**
 
-Plasma Method: Materials (small/large bumblebees, nylon balls, wax-coated nylon) were positively charged using an ion gun, exposed to the lighter for 1 min, and charge was measured using the pail and RCS.
-Control (No Plasma): Same setup as above but without the lighter. Additional trials were done to address grounding issues.
+### **Background**
+Bee electroreception is a highly specialized field with limited established methods. This study evaluates two methods for neutralizing charges to bring them as close to zero as possible:
+1. **Plasma Method**: Utilizing a plasma source (lighter).
+2. **No Plasma Method**: Serving as a control, without using the plasma source.
 
-Dataset Columns:
+### **Experimental Setup**
+- **Materials**: Small and large bumblebees, nylon balls (small and large), and wax-coated nylon balls.
+- **Equipment**:
+  - **Faraday Pail**: Primary and most reliable charge measurement method.
+  - **Ring Charge Sensor (RCS)**: Complementary but less accurate.
+- **Procedure**:
+  - Objects were charged using an ion gun.
+  - Plasma treatment involved exposing objects to a lighter for 1 minute, followed by charge measurements before and after treatment.
 
-method: (plasma/no plasma);
-material: (e.g., bumblebee);
-size: (small/large);
-faraday_charge_pC_before/after: Charge measured via Faraday Pail before/after in pC;
-calibratedcharge_before/after: Calibrated charge before/after in pC
+---
+
+## **Data Description**
+
+The dataset used in this analysis (`all_plasma_effectiveness_data_pC.csv`) contains the following columns:
+- **`method`**: Indicates treatment type (`plasma` or `no plasma`).
+- **`material`**: The type of object tested (e.g., bumblebee, nylon ball).
+- **`size`**: The size of the object (`small` or `big`).
+- **`faraday_charge_pC_before` / `faraday_charge_pC_after`**: Faraday Pail charge measurements before and after treatment (in picoCoulombs).
+- **`calibratedcharge_before` / `calibratedcharge_after`**: Complementary RCS measurements before and after treatment (in picoCoulombs).
+
+---
+
+## **Repository Contents**
+
+1. **`plasma_experiment.ipynb`**: Jupyter Notebook containing:
+   - Data exploration
+   - Statistical analyses
+   - Visualizations (boxplots, scatterplots)
+   - Summary statistics 
+2. **`all_plasma_effectiveness_data_pC.csv`**: The dataset
+4. **`README.md`**: This documentation file.
+
+---
+
+## **Usage Instructions**
+
+### **Prerequisites**
+- Ensure Python 3.x and the following libraries are installed:
+  - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
