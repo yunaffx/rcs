@@ -9,9 +9,8 @@ Control (No Plasma): Same setup as above but without the lighter. Additional tri
 
 Dataset Columns:
 
-file_name: File name;
-method: Method (plasma/no plasma);
-material: Material type (e.g., bumblebee);
-size: Material size (small/large);
+method: (plasma/no plasma);
+material: (e.g., bumblebee);
+size: (small/large);
 faraday_charge_pC_before/after: Charge measured via Faraday Pail before/after in pC;
 calibratedcharge_before/after: Calibrated charge before/after in pC
