@@ -6,24 +6,24 @@ This repository contains a Jupyter Notebook for analyzing the effectiveness of p
 
 ### **Background**
 Bee electroreception is a highly specialized field with limited established methods. This study evaluates two methods for neutralizing charges to bring them as close to zero as possible:
-1. **Plasma Method**: Utilizing a plasma source (lighter).
+1. **USB Plasma Method**: Using a plasma source (lighter).
 2. **No Plasma Method**: Serving as a control, without using the plasma source.
 
 ### **Experimental Setup**
-- **Materials**: Small and large bumblebees, nylon balls (small and large), and wax-coated nylon balls.
+- **Materials**: Small and large bumblebees and nylon balls.
 - **Equipment**:
   - **Faraday Pail**: Primary and most reliable charge measurement method.
   - **Ring Charge Sensor (RCS)**: Complementary but less accurate.
 - **Procedure**:
   - Objects were charged using an ion gun.
-  - Plasma treatment involved exposing objects to a lighter for 1 minute, followed by charge measurements before and after treatment.
+  - Plasma treatment involved exposing objects to a USB lighter for 30 seconds, followed by charge measurements before and after treatment.
 
 ---
 
 ## **Data Description**
 
-The dataset used in this analysis (`all_plasma_effectiveness_data_pC.csv`) contains the following columns:
-- **`method`**: Indicates treatment type (`plasma` or `no plasma`).
+The dataset used in this analysis (`USB_plasma_data.csv`) contains the following columns:
+- **`method`**: Indicates treatment type (`usb plasma` or `no plasma`).
 - **`material`**: The type of object tested (e.g., bumblebee, nylon ball).
 - **`size`**: The size of the object (`small` or `big`).
 - **`faraday_charge_pC_before` / `faraday_charge_pC_after`**: Faraday Pail charge measurements before and after treatment (in picoCoulombs).
@@ -33,12 +33,12 @@ The dataset used in this analysis (`all_plasma_effectiveness_data_pC.csv`) conta
 
 ## **Repository Contents**
 
-1. **`plasma_experiment.ipynb`**: Jupyter Notebook containing:
+1. **`usb_plasma_analysis.ipynb`**: Jupyter Notebook containing:
    - Data exploration
    - Statistical analyses
    - Visualizations (boxplots, scatterplots)
    - Summary statistics 
-2. **`all_plasma_effectiveness_data_pC.csv`**: The dataset
+2. **`USB_plasma_data.csv`**: The dataset
 4. **`README.md`**: This documentation file.
 
 ---
