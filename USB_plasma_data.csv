@@ -1,0 +1,41 @@
+﻿trial,file_name,method,material,size,faraday_charge_pC_before,faraday_charge_pC_after
+1,digNylonBig1,usb plasma,nylon ball,big,305.5,54.38
+2,digNylonBig1,usb plasma,nylon ball,big,204.8,25.15
+3,digNylonBig1,usb plasma,nylon ball,big,182.6,13.86
+4,digNylonBig1,usb plasma,nylon ball,big,256.8,18.66
+5,digNylonBig1,usb plasma,nylon ball,big,191.4,26.91
+1,digNylonSmall1,usb plasma,nylon ball,small,-66.53,-14.64
+2,digNylonSmall1,usb plasma,nylon ball,small,-70.48,-11.88
+3,digNylonSmall1,usb plasma,nylon ball,small,-69.68,-11.42
+4,digNylonSmall1,usb plasma,nylon ball,small,-56.93,-10.353
+5,digNylonSmall1,usb plasma,nylon ball,small,-41.28,-9.332
+1,digBeeBig1,usb plasma,bumblebee,big,138.8,0.363
+2,digBeeBig1,usb plasma,bumblebee,big,161.3,5.914
+3,digBeeBig1,usb plasma,bumblebee,big,182,4.023
+4,digBeeBig1,usb plasma,bumblebee,big,180.7,9.69
+5,digBeeBig1,usb plasma,bumblebee,big,72.53,3.663
+1,digBeeSmall1,usb plasma,bumblebee,small,-59.6,-18.17
+2,digBeeSmall1,usb plasma,bumblebee,small,-55.34,-16.96
+3,digBeeSmall1,usb plasma,bumblebee,small,-86.31,-19.78
+4,digBeeSmall1,usb plasma,bumblebee,small,-64.31,-18.6
+5,digBeeSmall1,usb plasma,bumblebee,small,-37.07,-20.03
+1,digNylonBigNOPLASMA,no plasma,nylon ball,big,102.6,48.38
+2,digNylonBigNOPLASMA,no plasma,nylon ball,big,117.5,90.38
+3,digNylonBigNOPLASMA,no plasma,nylon ball,big,180.4,147.5
+4,digNylonBigNOPLASMA,no plasma,nylon ball,big,181,163.7
+5,digNylonBigNOPLASMA,no plasma,nylon ball,big,225.1,185.3
+1,digNylonSmallNegNOPLASMA,no plasma,nylon ball,small,-87.57,-46.39
+2,digNylonSmallNegNOPLASMA,no plasma,nylon ball,small,-60.99,-44.84
+3,digNylonSmallNegNOPLASMA,no plasma,nylon ball,small,-68.46,-49.73
+4,digNylonSmallNegNOPLASMA,no plasma,nylon ball,small,-72.43,-48.81
+5,digNylonSmallNegNOPLASMA,no plasma,nylon ball,small,-69.68,-48.79
+1,digBeeBigNOPLASMA,no plasma,bumblebee,big,128.5,15.97
+2,digBeeBigNOPLASMA,no plasma,bumblebee,big,148.2,24.39
+3,digBeeBigNOPLASMA,no plasma,bumblebee,big,156.8,24.57
+4,digBeeBigNOPLASMA,no plasma,bumblebee,big,179.9,15.65
+5,digBeeBigNOPLASMA,no plasma,bumblebee,big,108.5,14.19
+1,digBeeSmallNegNOPLASMA,no plasma,bumblebee,small,-47.2,-30.6
+2,digBeeSmallNegNOPLASMA,no plasma,bumblebee,small,-7.242,19.31
+3,digBeeSmallNegNOPLASMA,no plasma,bumblebee,small,-28.37,-14.39
+4,digBeeSmallNegNOPLASMA,no plasma,bumblebee,small,-33.83,34.77
+5,digBeeSmallNegNOPLASMA,no plasma,bumblebee,small,-69.14,14.79
