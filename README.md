@@ -11,7 +11,7 @@ Bee electroreception is a highly specialized field with limited established meth
    
 ### **Study Objectives**
 
-#### 1. **Effectiveness of Charge Neutralization**
+#### 1. **Effectiveness of Charge Neutralization** - First cell of the IPython notebook executed in the JupyterLab environment
 - **Question:** How close to zero are the charges after treatment?  
 - **Purpose:** Evaluate the ability of plasma treatment to achieve charge neutrality, regardless of initial charge values.  
 - **Logic:** Closer-to-zero charges after treatment indicate better neutralization.  
@@ -19,7 +19,7 @@ Bee electroreception is a highly specialized field with limited established meth
   - No significant differences were found between treatment groups (USB Plasma vs. No Plasma).  
   - Material type and size did not significantly affect charge neutralization (see code notes for detailed results and explanations).  
 
-#### 2. **Magnitude of Charge Change**
+#### 2. **Magnitude of Charge Change** -  Second cell of the IPython notebook executed in the JupyterLab environment
 - **Question:** How much does the treatment change the charge?  
 - **Purpose:** Measure the magnitude of charge adjustment, whether positive or negative.  
 - **Logic:** Evaluate the extent to which plasma treatment alters charges compared to no plasma, focusing on the overall impact.  
