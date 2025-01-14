@@ -58,6 +58,7 @@ The dataset used in this analysis (`USB_plasma_data.csv`) contains the following
    - Summary statistics 
 2. **`USB_plasma_data.csv`**: The dataset
 4. **`README.md`**: This documentation file.
+5. **`LICENSE`**
 
 ---
 
